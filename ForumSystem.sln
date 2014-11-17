@@ -30,6 +30,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{47B147
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "External Libraries", "External Libraries", "{57859473-083C-4BF6-AF02-AC99B33A944B}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\[Web Track] ASP.NET MVC\Last Exam\Libraries\Kendo.Mvc.dll = ..\..\[Web Track] ASP.NET MVC\Last Exam\Libraries\Kendo.Mvc.dll
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
